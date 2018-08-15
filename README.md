@@ -4,3 +4,4 @@ This assignment had us use the Leaflet formatting to layer Earthquake activity f
 
 Each circle size and color is determined by the Magnitude of the earthquake. 
 
+https://rcate.github.io/15_Leaflet/
